@@ -1,4 +1,4 @@
-# LPSforLifelong
+# LPS for Lifelong Learning
 
 The present code implements Learn-Prune-Share algorithm for lifelong learning.
 
